@@ -50,7 +50,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 Have questions or ideas? Feel free to reach out:
 
 - **Email**: code@openpulsesec.org
-- **GitLab Issues**: [Open an issue](https://gitlab.com/open-pulse-security/net-pulse/issues)
+- **GitHub Issues**: [Open an issue](https://github.com/openpulsesecurity/openpulsesec_web/issues)
 
 ---
 
